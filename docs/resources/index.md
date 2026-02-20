@@ -9,6 +9,7 @@ This is the landing page for resources you may find useful.
    :titlesonly:
    :maxdepth: 1
 
+   faq
    table_specs 
    custom_physics 
 ```
